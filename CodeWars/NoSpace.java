@@ -11,7 +11,7 @@ public class NoSpace {
 
     public static void main(String[] args) {
 
-        String string = "LEO É VIADINHO PONTO COM";
+        String string = "Teste Teste teste Teste";
 
         System.out.println(removeSpace(string));
 
