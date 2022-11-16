@@ -1,4 +1,4 @@
-package DigitalInnovationOne.Collections;
+package DigitalInnovationOne.Collections.List;
 
 import java.util.ArrayList;
 import java.util.Collections;
